@@ -1,0 +1,16 @@
+{
+    "name": "graywolfy/otus-composer-package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Graywolfy\\OtusComposerPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "GrayWolfy",
+            "email": "fymigator@gmail.com"
+        }
+    ],
+    "require": {}
+}
