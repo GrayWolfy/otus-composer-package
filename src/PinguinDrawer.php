@@ -3,7 +3,7 @@ declare(strict_types=1);
 
 namespace Graywolfy\OtusComposerPackage;
 
-class PinguinDrawer
+final class PinguinDrawer
 {
     public function draw()
     {

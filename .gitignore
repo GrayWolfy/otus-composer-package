@@ -7,3 +7,5 @@
 7 # Project files
 8 vendor
 9 composer.lock
+/vendor/
+*.swp

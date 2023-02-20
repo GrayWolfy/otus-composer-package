@@ -12,5 +12,10 @@
             "email": "fymigator@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "config": {
+        "platform": {
+            "php": "7.0.0"
+        }
+    }
 }
